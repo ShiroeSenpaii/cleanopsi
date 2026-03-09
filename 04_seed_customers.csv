@@ -1,0 +1,21 @@
+customer_name,phone_e164,route_name,weekday,window_label,window_start,window_end,frequency,consent_status,next_visit_date,notes
+John Smith,+12025550101,Tue North,Tuesday,09:00-12:00,09:00,12:00,weekly,unknown,2026-03-10,standard weekly lawn customer
+Maria Lopez,+12025550102,Tue North,Tuesday,09:00-12:00,09:00,12:00,weekly,unknown,2026-03-10,prefers SMS reminders
+David Carter,+12025550103,Tue North,Tuesday,Anytime,,,biweekly,unknown,2026-03-10,anytime exterior service
+Emily Nguyen,+12025550104,Thu East,Thursday,13:00-16:00,13:00,16:00,weekly,unknown,2026-03-12,dog in yard note
+Robert King,+12025550105,Thu East,Thursday,13:00-16:00,13:00,16:00,monthly,unknown,2026-03-12,monthly pest control
+Ashley Brown,+12025550106,Fri South,Friday,08:00-11:00,08:00,11:00,weekly,unknown,2026-03-13,house cleaning client
+Kevin Wright,+12025550107,Fri South,Friday,08:00-11:00,08:00,11:00,biweekly,unknown,2026-03-13,route edge near motorway
+Sarah Johnson,+12025550108,Fri South,Friday,Anytime,,,weekly,unknown,2026-03-13,anytime lawn cut
+Olivia Adams,+12025550109,Mon West,Monday,10:00-14:00,10:00,14:00,weekly,unknown,2026-03-16,gate code needed
+Ethan Parker,+12025550110,Mon West,Monday,10:00-14:00,10:00,14:00,biweekly,unknown,2026-03-16,biweekly cleaning
+Chloe Turner,+12025550111,Wed Central,Wednesday,12:00-15:00,12:00,15:00,weekly,unknown,2026-03-11,close to previous stop
+Liam Scott,+12025550112,Wed Central,Wednesday,12:00-15:00,12:00,15:00,monthly,unknown,2026-03-11,monthly treatment
+Ava Reed,+12025550113,Wed Central,Wednesday,Anytime,,,weekly,unknown,2026-03-11,anytime repeat service
+Noah Murphy,+12025550114,Tue North,Tuesday,09:00-12:00,09:00,12:00,weekly,unknown,2026-03-10,standard
+Mia Bailey,+12025550115,Thu East,Thursday,13:00-16:00,13:00,16:00,weekly,unknown,2026-03-12,standard
+James Foster,+12025550116,Fri South,Friday,08:00-11:00,08:00,11:00,monthly,unknown,2026-03-13,monthly deep clean
+Isabella Cox,+12025550117,Mon West,Monday,10:00-14:00,10:00,14:00,weekly,unknown,2026-03-16,standard
+Benjamin Ward,+12025550118,Wed Central,Wednesday,12:00-15:00,12:00,15:00,biweekly,unknown,2026-03-11,standard
+Charlotte Price,+12025550119,Tue North,Tuesday,Anytime,,,weekly,unknown,2026-03-10,anytime service
+Lucas Bennett,+12025550120,Thu East,Thursday,13:00-16:00,13:00,16:00,weekly,unknown,2026-03-12,standard
